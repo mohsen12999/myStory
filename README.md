@@ -21,7 +21,7 @@
 مطالب این صفحه یه الگو برداری از اصلاعات پروژه [یکی از دوستان](https://github.com/dutymess/laravel-0-to-60) هست.
 
 # حرف آخر
-مطالب پروژه رو می توانید از [این آدرس](https://mohsen1299.github.io/myStory) ببینید.
+مطالب پروژه رو می توانید از [این آدرس](https://mohsen12999.github.io/myStory/index.html) ببینید.
 موفق باشید.
 
 </div>
